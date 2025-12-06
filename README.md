@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Shahmeer Abdullah 👋</h1>
 <h3 align="center">Software Engineering Student at GIKI • Developer • AI/ML Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:shahmeerabdullah83@gmail.com">📧 Email</a> •
-  <a href="https://github.com/shahmeerabdul">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/shahmeer-abdullah-23291a360">🔗 LinkedIn</a>
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -54,10 +48,6 @@ I enjoy full-stack development, automation, modern UI/UX design, and exploring A
 
 ---
 
-## 🤝 Connect With Me  
-📧 **Email:** shahmeerabdullah83@gmail.com  
-💻 **GitHub:** https://github.com/shahmeerabdul  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shahmeer-abdullah-23291a360  
 
 ---
 
