@@ -46,9 +46,3 @@ I enjoy full-stack development, automation, modern UI/UX design, and exploring A
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahmeerabdul&show_icons=true&theme=radical" />
 </p>
 
----
-
-
----
-
-⭐ *Thanks for visiting my profile — always open for collaboration!*
