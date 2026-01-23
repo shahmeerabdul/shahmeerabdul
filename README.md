@@ -26,14 +26,3 @@ I enjoy full-stack development, automation, modern UI/UX design, and exploring A
 </p>
 
 
-
-##  GitHub Stats  
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerabdul&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahmeerabdul&show_icons=true&theme=radical" />
-</p>
-
