@@ -3,4 +3,4 @@
 
 
 ##  About Me  
-I build scalable solutions.
+I design systems and build solutions that actually scale.
